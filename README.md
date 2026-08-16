@@ -1,60 +1,58 @@
-# Hi, I'm Samuele 👋
+# Hi, I'm Samuele Civale 👋
 
-I'm an MSc student in **Artificial Intelligence and Robotics** at **Sapienza University of Rome**, interested in building intelligent systems that interact with the physical world.
+**AI & Robotics MSc student @ Sapienza University of Rome**
 
-My main interests are:
+I work at the intersection of **robotics, control, perception and machine learning**, with a particular interest in building autonomous systems that can perceive their environment, make decisions and act robustly under uncertainty.
 
-* 🤖 **Robotics & Autonomous Systems**
-* 🧠 **Reinforcement Learning & Physical AI**
-* 👁️ **Computer Vision & Perception**
-* 🚁 **Multi-Robot & UAV Systems**
-* 🎛️ **Robot Control**
+My projects range from **humanoid locomotion and visual odometry** to **reinforcement learning, multi-robot coordination and medical robotics**.
 
-## Selected Projects
+---
 
-### 🚁 3D Drone Gate Racing with Soft Actor-Critic
+## 🤖 Selected Robotics & AI Projects
 
-Reinforcement learning for autonomous 3D drone racing, comparing direct SAC training with curriculum-learning strategies and multi-drone policy transfer.
+| Project                                                                                                                  | Focus                                     | Highlights                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **[Reactive Push Recovery for IS-MPC Humanoid Locomotion](https://github.com/samuelecivale/reactive-step-timing-ismpc)** | Optimal Control · Humanoid Robotics       | Online QP-based footstep and step-timing adaptation using DCM viability for disturbance recovery     |
+| **[Monocular Visual Odometry](https://github.com/samuelecivale/probabilistic-robotics-visual-odometry)**                 | Perception · State Estimation             | Essential Matrix, RANSAC/DLT, active 3D cloud, projective ICP and sparse mapping                     |
+| **[Autonomous Drone Gate Racing with SAC](https://github.com/samuelecivale/drone-gate-racing-sac)**                      | Reinforcement Learning · Drones           | Custom Soft Actor-Critic, procedural 3D tracks, curriculum learning and multi-drone transfer         |
+| **[Multi-RCM Surgical Robot Control](https://github.com/samuelecivale/medical_robotics_project)**                        | Medical Robotics · Kinematics             | Damped least-squares IK, numerical Jacobians, RCM constraints and task-priority control              |
+| **[Multi-Task AI Image Forensics](https://github.com/samuelecivale/multitask-ai-image-forensics)**                       | Deep Learning · Computer Vision           | EfficientNet multi-task learning for AI-generated image detection and post-processing classification |
+| **[Delay-Aware Multi-Robot Rendezvous](https://github.com/samuelecivale/delay-aware-unicycle-rendezvous)**               | Multi-Robot Systems · Distributed Control | Consensus under communication delays, graph-theoretic stability analysis and nonholonomic control    |
 
-### 🤖 Reactive Step Timing for Humanoid Locomotion
+---
 
-Reactive step-timing adaptation for an IS-MPC humanoid walking controller, improving push-recovery robustness under external disturbances.
+## 🧠 Areas I Work With
 
-### 👁️ Visual Odometry
+**Robotics & Control**
 
-Monocular visual-odometry pipeline with geometric initialization, triangulation, local-map tracking and reprojection-error refinement.
+`Model Predictive Control` · `Optimal Control` · `Multi-Robot Systems` · `Kinematics` · `State Estimation` · `Visual Odometry`
 
-### 🧠 AI Image Forensics
+**Artificial Intelligence**
 
-Multi-task deep-learning system for AI-generated image detection and post-processing artifact recognition.
+`Reinforcement Learning` · `Deep Learning` · `Computer Vision` · `Multi-Task Learning`
 
-### 🏥 Medical Robotics
+**Tools & Languages**
 
-Multi-RCM robotic-control project for neurosurgical manipulation using numerical Jacobians and damped least-squares inverse kinematics.
+`Python` · `C++` · `MATLAB / Octave` · `PyTorch` · `C#` · `Unity`
 
-### 🤝 Multi-Robot Systems
+---
 
-Delay-aware rendezvous and formation-control algorithms for networks of unicycle robots.
+## 🔬 What I'm Interested In
 
-## Technologies
+I'm particularly interested in autonomous robotic systems combining
 
-**Python · C++ · PyTorch · MATLAB · Computer Vision · Reinforcement Learning · Robotics · Control**
+**Perception → Estimation → Decision Making → Control**
 
-📍 Rome, Italy
-🔗 [LinkedIn](https://www.linkedin.com/in/samuele-civale-540b98282/)
-## Hi there 👋
+and in approaches that bridge classical robotics with modern machine learning.
 
-<!--
-**samuelecivale/samuelecivale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current areas of interest include:
 
-Here are some ideas to get you started:
+* autonomous and mobile robotics;
+* robot perception and state estimation;
+* reinforcement learning for robotic control;
+* multi-robot coordination;
+* learning-based and optimization-based control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> **Robotics is most interesting to me when perception, intelligence and control have to work together in the same system.**
