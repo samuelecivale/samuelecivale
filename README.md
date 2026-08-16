@@ -41,7 +41,7 @@ Delay-aware rendezvous and formation-control algorithms for networks of unicycle
 **Python · C++ · PyTorch · MATLAB · Computer Vision · Reinforcement Learning · Robotics · Control**
 
 📍 Rome, Italy
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuele-civale-540b98282/)
 ## Hi there 👋
 
 <!--
